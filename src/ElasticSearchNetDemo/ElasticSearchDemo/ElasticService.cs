@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using DemoCode;
 using Elasticsearch.Net;
 using Nest;
 using System.Linq;

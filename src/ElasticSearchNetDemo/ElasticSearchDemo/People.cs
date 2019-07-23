@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoCode
+namespace ElasticSearchNetDemo
 {
     public class People {
         public Guid Id { get; set; }

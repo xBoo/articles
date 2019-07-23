@@ -6,3 +6,8 @@
 /src/ElasticSearchDemoTest/obj
 /src/ElasticSearchDemoTest/bin
 /src/*.user
+/src/ElasticSearchNetDemo/.vs
+/src/ElasticSearchNetDemo/ElasticSearchDemo/obj
+/src/ElasticSearchNetDemo/ElasticSearchDemo/bin
+/src/ElasticSearchNetDemo/ElasticSearchDemoTest/obj
+/src/ElasticSearchNetDemo/ElasticSearchDemoTest/bin

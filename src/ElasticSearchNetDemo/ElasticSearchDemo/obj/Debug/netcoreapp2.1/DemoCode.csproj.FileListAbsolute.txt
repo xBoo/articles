@@ -1,0 +1,11 @@
+C:\Users\xubo\Desktop\articles\src\bin\Debug\netcoreapp2.1\DemoCode.deps.json
+C:\Users\xubo\Desktop\articles\src\bin\Debug\netcoreapp2.1\DemoCode.runtimeconfig.json
+C:\Users\xubo\Desktop\articles\src\bin\Debug\netcoreapp2.1\DemoCode.runtimeconfig.dev.json
+C:\Users\xubo\Desktop\articles\src\bin\Debug\netcoreapp2.1\DemoCode.dll
+C:\Users\xubo\Desktop\articles\src\bin\Debug\netcoreapp2.1\DemoCode.pdb
+C:\Users\xubo\Desktop\articles\src\obj\Debug\netcoreapp2.1\DemoCode.csprojAssemblyReference.cache
+C:\Users\xubo\Desktop\articles\src\obj\Debug\netcoreapp2.1\DemoCode.csproj.CoreCompileInputs.cache
+C:\Users\xubo\Desktop\articles\src\obj\Debug\netcoreapp2.1\DemoCode.AssemblyInfoInputs.cache
+C:\Users\xubo\Desktop\articles\src\obj\Debug\netcoreapp2.1\DemoCode.AssemblyInfo.cs
+C:\Users\xubo\Desktop\articles\src\obj\Debug\netcoreapp2.1\DemoCode.dll
+C:\Users\xubo\Desktop\articles\src\obj\Debug\netcoreapp2.1\DemoCode.pdb

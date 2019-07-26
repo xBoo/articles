@@ -1,13 +1,1 @@
-/src/obj
-/src/bin
-/src/ElasticSearchNetDemo/bin
-/src/ElasticSearchNetDemo/obj
-/src/.vs
-/src/ElasticSearchDemoTest/obj
-/src/ElasticSearchDemoTest/bin
-/src/*.user
-/src/ElasticSearchNetDemo/.vs
-/src/ElasticSearchNetDemo/ElasticSearchDemo/obj
-/src/ElasticSearchNetDemo/ElasticSearchDemo/bin
-/src/ElasticSearchNetDemo/ElasticSearchDemoTest/obj
-/src/ElasticSearchNetDemo/ElasticSearchDemoTest/bin
+.DS_Store

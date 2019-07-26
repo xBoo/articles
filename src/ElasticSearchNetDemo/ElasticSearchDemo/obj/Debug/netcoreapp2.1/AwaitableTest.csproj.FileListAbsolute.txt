@@ -1,0 +1,11 @@
+D:\git\awaitable\src\obj\Debug\netcoreapp2.1\AwaitableTest.csprojAssemblyReference.cache
+D:\git\awaitable\src\obj\Debug\netcoreapp2.1\AwaitableTest.csproj.CoreCompileInputs.cache
+D:\git\awaitable\src\obj\Debug\netcoreapp2.1\AwaitableTest.AssemblyInfoInputs.cache
+D:\git\awaitable\src\obj\Debug\netcoreapp2.1\AwaitableTest.AssemblyInfo.cs
+D:\git\awaitable\src\bin\Debug\netcoreapp2.1\AwaitableTest.deps.json
+D:\git\awaitable\src\bin\Debug\netcoreapp2.1\AwaitableTest.runtimeconfig.json
+D:\git\awaitable\src\bin\Debug\netcoreapp2.1\AwaitableTest.runtimeconfig.dev.json
+D:\git\awaitable\src\bin\Debug\netcoreapp2.1\AwaitableTest.dll
+D:\git\awaitable\src\bin\Debug\netcoreapp2.1\AwaitableTest.pdb
+D:\git\awaitable\src\obj\Debug\netcoreapp2.1\AwaitableTest.dll
+D:\git\awaitable\src\obj\Debug\netcoreapp2.1\AwaitableTest.pdb

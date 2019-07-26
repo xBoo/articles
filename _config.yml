@@ -3,8 +3,8 @@ title: Wblearn Blog
 SEOTitle: Wblearn的博客 | Wblearn Blog
 header-img: img/home-bg-art.jpg
 email: 1275660493@qq.com
-description: "@wblearn,不要让任何事情成为你不去学习的理由！"
-keyword: "wblearn, @wblearn, wblearn的博客,wblearn Blog, 博客, 个人网站, 互联网"
+description: ""
+keyword: ""
 url: "http://xboo.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -14,9 +14,9 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: false
 weibo_username:     wudalanggd
 csdn_username:     wudalang_gd
-github_username:    wblearn
+github_username:    xboo
 #twitter_username:  wblearn
-jianshu_username:  48599dc7ef1b
+#jianshu_username:  48599dc7ef1b
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -51,14 +51,14 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: wblearnblog
+duoshuo_username: xboo
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 # LiveRe setttings
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8yODkzOC81NTA3
+#livere_uid: MTAyMC8yODkzOC81NTA3
 
 # Analytics settings
 # Baidu Analytics 
@@ -66,7 +66,7 @@ livere_uid: MTAyMC8yODkzOC81NTA3
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: wblearn.github.io
+ga_domain: xboo.github.io
 
 
 
